@@ -14,7 +14,7 @@
     "ext-json": "*",
     "ext-pdo": "*",
     "laravel/framework": "^10.0",
-    "phayes/geophp": "^1.2"
+    "itamair/geophp": "^1.5"
   },
   "require-dev": {
     "doctrine/dbal": "^3.5.3",
